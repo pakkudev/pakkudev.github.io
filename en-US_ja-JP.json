@@ -1,0 +1,1012 @@
+{
+  "language": "",
+  "totalwords": 117,
+  "groups": [
+    {
+      "id": 1,
+      "name": "The Nature",
+      "subgroups": [
+        {
+          "id": 3,
+          "name": "Animals 1",
+          "words": [
+            39,
+            178,
+            251,
+            304,
+            344,
+            556,
+            650,
+            728,
+            877,
+            1019,
+            1048,
+            1463,
+            1869,
+            1924,
+            2237,
+            2457,
+            2807,
+            2907,
+            2915
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Foods \u0026 Drinks",
+      "subgroups": [
+        {
+          "id": 4,
+          "name": "Foods 1",
+          "words": [
+            50,
+            81,
+            143,
+            160,
+            167,
+            177,
+            197,
+            198,
+            201,
+            252,
+            338,
+            418,
+            447,
+            490,
+            577,
+            694,
+            809,
+            861,
+            880,
+            911,
+            971,
+            987,
+            988,
+            1065,
+            1104,
+            1193,
+            1240,
+            1298
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Drinks 1",
+          "words": [
+            217,
+            218,
+            316,
+            317,
+            575,
+            609,
+            705,
+            824,
+            1127,
+            1173,
+            1265,
+            1307,
+            2031,
+            3000,
+            3004,
+            3683,
+            3987,
+            4023,
+            4192,
+            4743
+          ]
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "name": "Nouns",
+      "subgroups": [
+        {
+          "id": 1,
+          "name": "Nouns 1",
+          "words": [
+            1,
+            9,
+            10,
+            15,
+            17,
+            19,
+            23,
+            25,
+            28,
+            30,
+            31,
+            34,
+            39,
+            42,
+            48
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Nouns 2",
+          "words": [
+            50,
+            51,
+            52,
+            53,
+            58,
+            60,
+            61,
+            64,
+            69,
+            70,
+            71,
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "name": "Verbs",
+      "subgroups": [
+        {
+          "id": 2,
+          "name": "Verbs 1",
+          "words": [
+            14,
+            27,
+            43,
+            56,
+            65,
+            88,
+            94,
+            99,
+            103,
+            137,
+            145,
+            150,
+            161
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Verbs 2",
+          "words": [
+            169,
+            189,
+            196,
+            202,
+            210,
+            213,
+            226,
+            229,
+            231,
+            236,
+            242,
+            244
+          ]
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "name": "feeding",
+      "rarity": "",
+      "type": "Noun",
+      "translation": "\u6442\u98DF"
+    },
+    {
+      "id": 9,
+      "name": "activity",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u6D3B\u52D5"
+    },
+    {
+      "id": 10,
+      "name": "actor",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u4FF3\u512A"
+    },
+    {
+      "id": 14,
+      "name": "add",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u8DB3\u3059"
+    },
+    {
+      "id": 15,
+      "name": "address",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u4F4F\u6240"
+    },
+    {
+      "id": 17,
+      "name": "adult",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u5927\u4EBA"
+    },
+    {
+      "id": 19,
+      "name": "advice",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u52A9\u8A00"
+    },
+    {
+      "id": 23,
+      "name": "africa",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u30A2\u30D5\u30EA\u30AB"
+    },
+    {
+      "id": 25,
+      "name": "afternoon",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u5348\u5F8C"
+    },
+    {
+      "id": 27,
+      "name": "agree",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u5373\u3059\u308B"
+    },
+    {
+      "id": 28,
+      "name": "air",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u7A7A\u6C17"
+    },
+    {
+      "id": 30,
+      "name": "airplane",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u98DB\u884C\u6A5F"
+    },
+    {
+      "id": 31,
+      "name": "airport",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u7A7A\u6E2F"
+    },
+    {
+      "id": 34,
+      "name": "alphabet",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": " \u30A2\u30EB\u30D5\u30A1\u30D9\u30C3\u30C8 "
+    },
+    {
+      "id": 39,
+      "name": "animal",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u52D5\u7269"
+    },
+    {
+      "id": 42,
+      "name": "answer",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u7B54\u3048"
+    },
+    {
+      "id": 43,
+      "name": "answer",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u7B54\u3048\u308B"
+    },
+    {
+      "id": 48,
+      "name": "apartment",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": " \u30A2\u30D1\u30FC\u30C8 "
+    },
+    {
+      "id": 50,
+      "name": "apple",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u308A\u3093\u3054"
+    },
+    {
+      "id": 51,
+      "name": "april",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": " \u3057\u304C\u3064 "
+    },
+    {
+      "id": 52,
+      "name": "area",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u5730\u57DF"
+    },
+    {
+      "id": 53,
+      "name": "arm",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u8155"
+    },
+    {
+      "id": 56,
+      "name": "arrive",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u6765\u308B"
+    },
+    {
+      "id": 58,
+      "name": "art",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u7F8E\u8853"
+    },
+    {
+      "id": 60,
+      "name": "article",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u8A18\u4E8B"
+    },
+    {
+      "id": 61,
+      "name": "artist",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u82B8\u8853\u5BB6"
+    },
+    {
+      "id": 64,
+      "name": "asia",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u30A2\u30B8\u30A2"
+    },
+    {
+      "id": 65,
+      "name": "ask",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u5C0B\u306D\u308B"
+    },
+    {
+      "id": 69,
+      "name": "august",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": " \u306F\u3061\u304C\u3064 "
+    },
+    {
+      "id": 70,
+      "name": "aunt",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u4F2F\u6BCD\u3055\u3093"
+    },
+    {
+      "id": 71,
+      "name": "autumn",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u79CB"
+    },
+    {
+      "id": 72,
+      "name": "baby",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u8D64\u3061\u3083\u3093"
+    },
+    {
+      "id": 81,
+      "name": "banana",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "muz"
+    },
+    {
+      "id": 88,
+      "name": "be",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u6709\u308B"
+    },
+    {
+      "id": 94,
+      "name": "become",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u6210\u308B"
+    },
+    {
+      "id": 99,
+      "name": "begin",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u59CB\u307E\u308B"
+    },
+    {
+      "id": 103,
+      "name": "believe",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u4FE1\u3058\u308B"
+    },
+    {
+      "id": 137,
+      "name": "born",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u751F\u307E\u308C\u308B"
+    },
+    {
+      "id": 143,
+      "name": "bread",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "ekmek"
+    },
+    {
+      "id": 145,
+      "name": "break",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u6298\u308B"
+    },
+    {
+      "id": 150,
+      "name": "build",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u5EFA\u3066\u308B"
+    },
+    {
+      "id": 160,
+      "name": "butter",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "tereya\u011F"
+    },
+    {
+      "id": 161,
+      "name": "buy",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u8CB7\u3046"
+    },
+    {
+      "id": 167,
+      "name": "cake",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "kek"
+    },
+    {
+      "id": 169,
+      "name": "call",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u547C\u3076"
+    },
+    {
+      "id": 177,
+      "name": "carrot",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "havu\u00E7"
+    },
+    {
+      "id": 178,
+      "name": "cat",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "kedi"
+    },
+    {
+      "id": 189,
+      "name": "change",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u5909\u308F\u308B"
+    },
+    {
+      "id": 196,
+      "name": "check",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u78BA\u304B\u3081\u308B"
+    },
+    {
+      "id": 197,
+      "name": "cheese",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "peynir"
+    },
+    {
+      "id": 198,
+      "name": "chicken",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "tavuk"
+    },
+    {
+      "id": 201,
+      "name": "chocolate",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u00E7ikolata"
+    },
+    {
+      "id": 202,
+      "name": "choose",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u9078\u3076"
+    },
+    {
+      "id": 210,
+      "name": "clean",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u6383\u304F"
+    },
+    {
+      "id": 213,
+      "name": "close",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u9589\u3081\u308B"
+    },
+    {
+      "id": 217,
+      "name": "cola",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "kola"
+    },
+    {
+      "id": 218,
+      "name": "coffee",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "kahve"
+    },
+    {
+      "id": 226,
+      "name": "come",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u6765\u308B"
+    },
+    {
+      "id": 229,
+      "name": "compare",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u6BD4\u3079\u308B"
+    },
+    {
+      "id": 231,
+      "name": "complete",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u63C3\u3048\u308B"
+    },
+    {
+      "id": 236,
+      "name": "cook",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u7092\u3081\u308B"
+    },
+    {
+      "id": 242,
+      "name": "correct",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u6B63\u3059"
+    },
+    {
+      "id": 244,
+      "name": "cost",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "\u639B\u304B\u308B"
+    },
+    {
+      "id": 251,
+      "name": "cow",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "inek"
+    },
+    {
+      "id": 252,
+      "name": "cream",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "krema"
+    },
+    {
+      "id": 304,
+      "name": "dog",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "k\u00F6pek"
+    },
+    {
+      "id": 316,
+      "name": "drink",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "i\u00E7ecek"
+    },
+    {
+      "id": 317,
+      "name": "drink",
+      "rarity": "a1",
+      "type": "Verb",
+      "translation": "i\u00E7mek"
+    },
+    {
+      "id": 338,
+      "name": "egg",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "yumurta"
+    },
+    {
+      "id": 344,
+      "name": "elephant",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "fil"
+    },
+    {
+      "id": 418,
+      "name": "fish",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "bal\u0131k"
+    },
+    {
+      "id": 447,
+      "name": "fruit",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "meyve"
+    },
+    {
+      "id": 490,
+      "name": "green vegetable",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "ye\u015Fillik"
+    },
+    {
+      "id": 556,
+      "name": "horse",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "at"
+    },
+    {
+      "id": 575,
+      "name": "ice",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "buz"
+    },
+    {
+      "id": 577,
+      "name": "ice cream",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "dondurma"
+    },
+    {
+      "id": 609,
+      "name": "juice",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "meyva suyu"
+    },
+    {
+      "id": 650,
+      "name": "lion",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "aslan"
+    },
+    {
+      "id": 694,
+      "name": "meat",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "et"
+    },
+    {
+      "id": 705,
+      "name": "milk",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "s\u00FCt"
+    },
+    {
+      "id": 728,
+      "name": "mouse",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "fare"
+    },
+    {
+      "id": 809,
+      "name": "onion",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "so\u011Fan"
+    },
+    {
+      "id": 824,
+      "name": "orange",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "portakal"
+    },
+    {
+      "id": 861,
+      "name": "pepper",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "biber"
+    },
+    {
+      "id": 877,
+      "name": "pig",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "domuz"
+    },
+    {
+      "id": 880,
+      "name": "pizza",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "pizza"
+    },
+    {
+      "id": 911,
+      "name": "potato",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "patates"
+    },
+    {
+      "id": 971,
+      "name": "rice",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "pirin\u00E7"
+    },
+    {
+      "id": 987,
+      "name": "salad",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "salata"
+    },
+    {
+      "id": 988,
+      "name": "salt",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "tuz"
+    },
+    {
+      "id": 1019,
+      "name": "sheep",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "koyun"
+    },
+    {
+      "id": 1048,
+      "name": "snake",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "y\u0131lan"
+    },
+    {
+      "id": 1065,
+      "name": "soup",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u00E7orba"
+    },
+    {
+      "id": 1104,
+      "name": "sugar",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u015Feker"
+    },
+    {
+      "id": 1127,
+      "name": "tea",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u00E7ay"
+    },
+    {
+      "id": 1173,
+      "name": "thirsty",
+      "rarity": "a1",
+      "type": "Adjective",
+      "translation": "susuz"
+    },
+    {
+      "id": 1193,
+      "name": "tomato",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "domates"
+    },
+    {
+      "id": 1240,
+      "name": "vegetable",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "sebze"
+    },
+    {
+      "id": 1265,
+      "name": "water",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "su"
+    },
+    {
+      "id": 1298,
+      "name": "white bread",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "ekmek"
+    },
+    {
+      "id": 1307,
+      "name": "wine",
+      "rarity": "a1",
+      "type": "Noun",
+      "translation": "\u015Farap"
+    },
+    {
+      "id": 1463,
+      "name": "bear",
+      "rarity": "a2",
+      "type": "Noun",
+      "translation": "ay\u0131"
+    },
+    {
+      "id": 1869,
+      "name": "feed",
+      "rarity": "a2",
+      "type": "Verb",
+      "translation": "beslemek"
+    },
+    {
+      "id": 1924,
+      "name": "frog",
+      "rarity": "a2",
+      "type": "Noun",
+      "translation": "kurba\u011Fa"
+    },
+    {
+      "id": 2031,
+      "name": "hot chocolate",
+      "rarity": "a2",
+      "type": "Noun",
+      "translation": "s\u0131cak \u00E7ikolata"
+    },
+    {
+      "id": 2237,
+      "name": "monkey",
+      "rarity": "a2",
+      "type": "Noun",
+      "translation": "maymun"
+    },
+    {
+      "id": 2457,
+      "name": "rabbit",
+      "rarity": "a2",
+      "type": "Noun",
+      "translation": "tav\u015Fan"
+    },
+    {
+      "id": 2807,
+      "name": "tiger",
+      "rarity": "a2",
+      "type": "Noun",
+      "translation": "kaplan"
+    },
+    {
+      "id": 2907,
+      "name": "whale",
+      "rarity": "a2",
+      "type": "Noun",
+      "translation": "balina"
+    },
+    {
+      "id": 2915,
+      "name": "wild",
+      "rarity": "a2",
+      "type": "Adjective",
+      "translation": "yaban"
+    },
+    {
+      "id": 3000,
+      "name": "alcohol",
+      "rarity": "b1",
+      "type": "Noun",
+      "translation": "alkol"
+    },
+    {
+      "id": 3004,
+      "name": "alcoholic",
+      "rarity": "b1",
+      "type": "Adjective",
+      "translation": "alkolik"
+    },
+    {
+      "id": 3683,
+      "name": "fizzy",
+      "rarity": "b1",
+      "type": "Adjective",
+      "translation": "gazl\u0131"
+    },
+    {
+      "id": 3987,
+      "name": "kettle",
+      "rarity": "b1",
+      "type": "Noun",
+      "translation": "su \u0131s\u0131t\u0131c\u0131s\u0131"
+    },
+    {
+      "id": 4023,
+      "name": "lemonade",
+      "rarity": "b1",
+      "type": "Noun",
+      "translation": "limonata"
+    },
+    {
+      "id": 4192,
+      "name": "non-alcoholic",
+      "rarity": "b1",
+      "type": "Adjective",
+      "translation": "alkols\u00FCz"
+    },
+    {
+      "id": 4743,
+      "name": "soda",
+      "rarity": "b1",
+      "type": "Noun",
+      "translation": "soda"
+    }
+  ]
+}
